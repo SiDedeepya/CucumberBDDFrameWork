@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite failures="1" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="0">
+<testcase classname="Facebook login With Example keyword Feature" name="Facebook login With Example keyword Feature TestScenario" time="0">
+<failure message="The scenario has pending or undefined step(s)"><![CDATA[Given User is present on login page.........................................undefined
+When Title of login page is Facebookk.......................................undefined
+Then User enter "dedeepyajhanu@gmail.com" and enters "Dedeepya123#".........undefined
+Then User clicks on Login button............................................undefined
+And User is on Homepage #Validation.........................................undefined
+]]></failure>
+</testcase>
+</testsuite>

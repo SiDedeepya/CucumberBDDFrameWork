@@ -1,0 +1,71 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "line": 15,
+        "name": "Facebook login With Example keyword Feature TestScenario",
+        "description": "",
+        "id": "facebook-login-with-example-keyword-feature;facebook-login-with-example-keyword-feature-testscenario;;2",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 5,
+            "name": "User is present on login page",
+            "match": {},
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 6,
+            "name": "Title of login page is Facebookk",
+            "match": {},
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 7,
+            "name": "User enter \"dedeepyajhanu@gmail.com\" and enters \"Dedeepya123#\"",
+            "match": {},
+            "matchedColumns": [
+              0,
+              1
+            ],
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 8,
+            "name": "User clicks on Login button",
+            "match": {},
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 9,
+            "name": "User is on Homepage #Validation",
+            "match": {},
+            "keyword": "And "
+          }
+        ]
+      }
+    ],
+    "name": "Facebook login With Example keyword Feature",
+    "description": "",
+    "id": "facebook-login-with-example-keyword-feature",
+    "keyword": "Feature",
+    "uri": "F:/Selenium/Projects/CucumberBDDFramework/src/main/java/com/Features/withExampleKeyword.feature"
+  }
+]
